@@ -271,6 +271,7 @@ say("All done making some beautiful tables! :) ", "yoda"); beep(8)
 With your group, answer the following questions from the Buntaine article. 
 
 1. What prompted this study? 
+Need to reduce trash
 2. How were the treatment and control groups formed? 
 3. Was the social competition strategy effective? 
 
