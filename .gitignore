@@ -1,5 +1,6 @@
 .DS_Store
-
+/data
+Simulated_deforestation_Data6.csv
 *.csv
 
 # History files
